@@ -11,4 +11,4 @@ Dans cette version, le bandit n'a que deux bras et la différence de variance en
 En outre, nous montrons que l'utilisation de **l'exploration** ou d'un **learning rate faible** peuvent être vu comme des solutions à notre problème.
 
 La seule chose que vous avez à faire pour voir nos résultats est d'exécuter la commande: 
- ``` python3 run.py ``` ou parcourir les dossiers images ci-dessus qui contient les résultats de certaines éxécutions avec des épisodes de longueurs différentes.
+ ``` python3 run.py ``` ou parcourir les dossiers images ci-dessus qui contienent les résultats de certaines éxécutions avec des épisodes de longueurs différentes.
