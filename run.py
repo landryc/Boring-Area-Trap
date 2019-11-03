@@ -30,8 +30,8 @@ def printQtable(n_figure, all_q_tables, index_player, title, name):
 	plt.savefig(f'{name}')
 
 
-def demonstrate_boring_areas_trap(game_length=500):
-    n_players = 3
+def demonstrate_boring_areas_trap(game_length=50000):
+    n_players = 10
     left_arm_mean = 0.
     right_arm_mean = 1.
     left_arm_std = 0.5
