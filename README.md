@@ -11,4 +11,4 @@ Dans cette version, le bandit n'a que deux bras et la différence de variance en
 En outre, nous montrons que l'utilisation de **l'exploration** peut être vu comme une solution à notre problème.
 
 La seule chose que vous avez à faire pour voir nos résultats est d'exécuter la commande: 
- ``` python run.py ```.
+ ``` python3 run.py ```.
