@@ -2,7 +2,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# Adaptive Symmetric Noising Scheme
 class BinsASRN:
     def __init__(self, waiting_period=0, learning_period=10000):
         self.steps = 0
