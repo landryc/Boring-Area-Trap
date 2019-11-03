@@ -1,4 +1,5 @@
 # Boring-Area-Trap
+
 Boring Area Trap on MultiArmed Bandit problem.
 L'objectif de ce git est d'expérimenter le problème du Boring Area Trap dans les algorithmes d'apprentissage par renforcement, notamment Q-learning. 
 
