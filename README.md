@@ -19,5 +19,5 @@ L'obectif de ce git est de :
 
 Les environnements dans lesquels nous menont nous expériences sont des versions du Bandit à k bras où k = 2, 3, 4, 5.
 
-La seule chose que vous avez à faire pour voir nos résultats est d'exécuter la commande: 
- ``` python3 run.py ``` ou parcourir les dossiers images ci-dessus qui contiennent les résultats de certaines éxécutions avec des épisodes de longueurs différentes.
+La seule chose que vous avez à faire pour voir nos résultats est d'exécuter les commandes : 
+ ``` python3 run.py ``` , ``` python3 run_epsilon_prof.py ``` , ``` python3 run_epsilon.py ``` , ``` python3 run_alpha.py ``` ou parcourir les dossiers images ci-dessus qui contiennent les résultats de certaines éxécutions avec des épisodes de longueur 1 000 000.
