@@ -1,0 +1,12 @@
+Score Metric 0: % goods choices all 
+Pure: 0.9368
+Exploration: 4.6794
+ASRN0: 91.5118
+
+
+Score Metric 1: Total gain mean for all agents 
+Pure: 925.0720262267183
+Exploration: 4275.216086340223
+ASRN1: 91720.24267511099
+
+
